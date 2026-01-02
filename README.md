@@ -177,6 +177,13 @@ This study demonstrates that:
 
 ---
 
+## 📜 License
+
+This project is licensed under the **MIT License** — see the  
+[LICENSE](LICENSE) file for details.
+
+---
+
 ## 🙏 Acknowledgement
 
 This project was completed under the guidance of Prof. Mausumi Bose, with sincere thanks to her and college for giving me such an opportunity.
