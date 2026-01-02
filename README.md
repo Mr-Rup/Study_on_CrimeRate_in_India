@@ -155,13 +155,15 @@ This study demonstrates that:
 ```
 ├── data/
 │   └── regression_data.csv
+├── report/
+|   ├── Study_on_crime_rate_in_India.docx
+│   └── Study_on_crime_rate_in_India.pdf
 ├── scripts/
 │   ├── scatterplot.R
 │   ├── regression.R
 │   ├── regression_diagnostics.R
 │   └── dummy.R
-├── report/
-│   └── Study_on_crime_rate_in_India.pdf
+├── LICENSE
 └── README.md
 ```
 
